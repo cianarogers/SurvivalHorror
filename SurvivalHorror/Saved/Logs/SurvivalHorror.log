@@ -2157,3 +2157,1233 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.23-19.42.35:612][840]AssetCheck: New page: Asset Save: multiple assets
 [2020.10.23-19.42.35:612][840]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.10.23-19.42.35:612][840]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-19.44.34:919][422]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.44.34:929][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-19.44.34:930][422]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 11:44:34 AM)
+[2020.10.23-19.44.34:930][422]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.44.34:939][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009605s)
+[2020.10.23-19.44.34:940][422]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-19.44.34:940][422]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C592D0E00), frame # 338422
+[2020.10.23-19.44.34:940][422]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C17B1EE80), frame # 338422
+[2020.10.23-19.44.34:941][422]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2020.10.23-19.44.34:941][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010978s)
+[2020.10.23-19.44.34:981][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-19.44.34:985][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-19.44.34:985][422]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-19.44.34:985][422]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-19.44.34:994][422]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-19.44.34:994][422]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-19.44.35:029][422]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-19.44.35:030][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-19.44.35:030][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-19.44.35:030][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-19.44.35:030][422]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-19.44.35:041][422]LogInit: FAudioDevice initialized.
+[2020.10.23-19.44.35:050][422]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-19.44.35:053][422]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-15.44.35
+[2020.10.23-19.44.35:053][422]LogWorld: Bringing up level for play took: 0.001527
+[2020.10.23-19.44.35:053][422]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.23-19.44.35:055][422]PIE: Server logged in
+[2020.10.23-19.44.35:056][422]PIE: Play in editor total start time 0.128 seconds.
+[2020.10.23-19.44.37:714][738]LogBlueprintUserMessages: [MinorHungerPickup2_5] 100
+[2020.10.23-19.44.39:589][963]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-19.44.40:957][127]LogBlueprintUserMessages: [FullHungerPickup2_5] 100
+[2020.10.23-19.44.42:406][301]LogBlueprintUserMessages: [FullHungerPickup_2] 100
+[2020.10.23-19.44.44:591][563]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-19.44.46:004][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.44.46:004][728]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.44.46:004][728]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.44.46:004][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.44.46:011][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-19.44.46:017][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.44.46:073][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.44.46:074][728]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C17B1EE80), frame # 339728
+[2020.10.23-19.44.46:074][728]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C592D0E00), frame # 339728
+[2020.10.23-19.44.46:077][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.10.23-19.44.46:104][729]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.10.23-19.46.22:743][202]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.46.58:257][611]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.48.07:538][  1]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.48.13:906][714]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.48.39:344][932]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.48.45:308][583]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.50.52:621][  8]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ciana\Desktop\horroroid.ttf)
+[2020.10.23-19.51.17:944][  8]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.10.23-19.51.17:949][  8]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2020.10.23-19.51.17:957][  8]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.10.23-19.51.17:959][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.51.17:965][  8]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-19.51.17:998][  8]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-19.51.17:998][  8]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-19.51.18:004][  8]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-19.51.18:013][  8]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-19.51.52:805][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.10.23-19.51.54:330][963]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-19.51.54:335][963]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 7
+SessionName : 
+Reason      : Delete Selected Item
+
+Purging the undo buffer...
+
+[2020.10.23-19.51.55:045][963]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/horroroid.horroroid
+[2020.10.23-19.51.56:016][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.23-19.51.56:026][963]LogSlate: Last resort fallback font was requested. Font: '', Character: 'h (U+0068)'
+[2020.10.23-19.51.56:046][963]LogSlate: Took 0.018886 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.10.23-19.51.59:448][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.10.23-19.52.04:987][338]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-19.52.05:091][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.23-19.53.05:633][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.23-19.53.05:635][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2020.10.23-19.53.05:635][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget] ([1] browsable assets)...
+[2020.10.23-19.53.05:635][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget]
+[2020.10.23-19.53.05:651][803]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget_Auto67FB320F444117E9620A32DBEF9B431F0.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget_Auto6.uasset'
+[2020.10.23-19.53.05:652][803]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.10.23-19.53.34:968][949]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ciana\Desktop\horroroid.ttf)
+[2020.10.23-19.55.19:978][949]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.10.23-19.55.19:981][949]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2020.10.23-19.55.19:986][949]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.10.23-19.55.19:990][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.55.19:991][949]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-19.55.20:004][949]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-19.55.20:004][949]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-19.55.20:009][949]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-19.55.20:019][949]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-19.55.24:105][408]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-19.55.24:109][408]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.23-19.55.48:897][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-19.55.48:910][243]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget1F095EE743A0C4BD6A7B2392F8A471EE.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-19.55.48:926][243]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-19.55.48:926][243]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-19.55.51:284][522]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.55.51:295][522]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-19.55.51:308][522]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-19.55.51:404][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.10.23-19.55.51:407][522]LogPlayLevel: PlayLevel: Blueprint regeneration took 111 ms (1 blueprints)
+[2020.10.23-19.55.51:407][522]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 11:55:51 AM)
+[2020.10.23-19.55.51:408][522]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.55.51:418][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010892s)
+[2020.10.23-19.55.51:419][522]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-19.55.51:420][522]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C592D1800), frame # 366522
+[2020.10.23-19.55.51:420][522]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025BB0ABA5C0), frame # 366522
+[2020.10.23-19.55.51:420][522]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2020.10.23-19.55.51:420][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012291s)
+[2020.10.23-19.55.51:458][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.10.23-19.55.51:459][522]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-19.55.51:459][522]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-19.55.51:459][522]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-19.55.51:460][522]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-19.55.51:460][522]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-19.55.51:460][522]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-19.55.51:460][522]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-19.55.51:460][522]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-19.55.51:460][522]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-19.55.51:460][522]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-19.55.51:470][522]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-19.55.51:470][522]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-19.55.51:507][522]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-19.55.51:507][522]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-19.55.51:507][522]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-19.55.51:507][522]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-19.55.51:508][522]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-19.55.51:517][522]LogInit: FAudioDevice initialized.
+[2020.10.23-19.55.51:525][522]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-19.55.51:527][522]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-15.55.51
+[2020.10.23-19.55.51:527][522]LogWorld: Bringing up level for play took: 0.001254
+[2020.10.23-19.55.51:527][522]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.10.23-19.55.51:529][522]PIE: Server logged in
+[2020.10.23-19.55.51:530][522]PIE: Play in editor total start time 0.236 seconds.
+[2020.10.23-19.55.56:284][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-19.56.01:288][688]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2020.10.23-19.56.01:673][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.56.01:673][731]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.56.01:673][731]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.56.01:673][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.56.01:682][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-19.56.01:687][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.56.01:720][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.56.01:750][731]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025BB0ABA5C0), frame # 367731
+[2020.10.23-19.56.01:750][731]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C592D1800), frame # 367731
+[2020.10.23-19.56.01:754][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.10.23-19.56.01:782][732]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.10.23-19.56.10:128][680]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.56.15:745][278]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.56.16:931][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-19.56.16:943][413]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidgetB5E510904A32261BE3D51BB3C50D4FF6.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-19.56.16:956][413]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-19.56.16:956][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-19.56.18:593][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.57.17:186][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-19.57.17:197][601]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget4F0BD01B49FA1DE2064B9B917868E853.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-19.57.17:209][601]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-19.57.17:209][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-19.57.19:966][911]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.57.48:979][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.23-19.57.49:098][824]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMapE2A078904E8D06E08672BA82BCDEBE07.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-19.57.49:120][824]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 4
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.10.23-19.57.49:195][824]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData6F088BE74EA8283C58F6E498C24BB6F7.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-19.57.49:214][824]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-19.57.49:214][824]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-19.57.49:214][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-19.57.50:511][967]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.57.50:521][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-19.57.50:521][967]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 11:57:50 AM)
+[2020.10.23-19.57.50:551][967]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.57.50:569][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017720s)
+[2020.10.23-19.57.50:570][967]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-19.57.50:570][967]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025BC80C5200), frame # 371967
+[2020.10.23-19.57.50:570][967]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025BB3185D00), frame # 371967
+[2020.10.23-19.57.50:571][967]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.10.23-19.57.50:571][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019060s)
+[2020.10.23-19.57.50:611][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-19.57.50:613][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-19.57.50:613][967]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-19.57.50:613][967]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-19.57.50:620][967]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-19.57.50:620][967]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-19.57.50:654][967]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-19.57.50:654][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-19.57.50:654][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-19.57.50:654][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-19.57.50:655][967]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-19.57.50:664][967]LogInit: FAudioDevice initialized.
+[2020.10.23-19.57.50:675][967]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-19.57.50:677][967]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-15.57.50
+[2020.10.23-19.57.50:677][967]LogWorld: Bringing up level for play took: 0.001251
+[2020.10.23-19.57.50:677][967]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.10.23-19.57.50:679][967]PIE: Server logged in
+[2020.10.23-19.57.50:680][967]PIE: Play in editor total start time 0.16 seconds.
+[2020.10.23-19.57.53:352][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.57.53:352][279]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.57.53:352][279]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.57.53:352][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.57.53:357][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-19.57.53:362][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.57.53:398][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.57.53:431][279]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025BB3185D00), frame # 372279
+[2020.10.23-19.57.53:431][279]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025BC80C5200), frame # 372279
+[2020.10.23-19.57.53:434][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.23-19.57.53:457][280]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.10.23-19.58.00:319][ 85]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.23-19.58.02:312][321]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.58.02:323][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-19.58.02:323][321]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 11:58:02 AM)
+[2020.10.23-19.58.02:323][321]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.58.02:335][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011672s)
+[2020.10.23-19.58.02:336][321]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-19.58.02:336][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C6AFA9200), frame # 373321
+[2020.10.23-19.58.02:336][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025BB0983380), frame # 373321
+[2020.10.23-19.58.02:336][321]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2020.10.23-19.58.02:336][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012781s)
+[2020.10.23-19.58.02:374][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-19.58.02:377][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-19.58.02:377][321]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-19.58.02:377][321]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-19.58.02:384][321]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-19.58.02:384][321]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-19.58.02:420][321]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-19.58.02:420][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-19.58.02:420][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-19.58.02:420][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-19.58.02:420][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-19.58.02:430][321]LogInit: FAudioDevice initialized.
+[2020.10.23-19.58.02:488][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-19.58.02:489][321]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-19.58.02:491][321]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-15.58.02
+[2020.10.23-19.58.02:491][321]LogWorld: Bringing up level for play took: 0.001662
+[2020.10.23-19.58.02:491][321]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.10.23-19.58.02:495][321]PIE: Server logged in
+[2020.10.23-19.58.02:495][321]PIE: Play in editor total start time 0.173 seconds.
+[2020.10.23-19.58.05:179][637]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-19.58.05:183][637]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-19.58.05:221][637]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.58.05:222][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.58.05:232][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-19.58.05:238][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.58.05:296][637]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025BB0983380), frame # 373637
+[2020.10.23-19.58.05:296][637]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C6AFA9200), frame # 373637
+[2020.10.23-19.58.05:300][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.10.23-19.58.05:320][638]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.10.23-19.58.22:626][320]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/ThirdPersonBP/Blueprints/horroroid_Font.horroroid_Font
+[2020.10.23-19.58.30:701][213]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.58.30:701][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.58.30:727][213]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-19.58.30:727][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-19.58.33:143][455]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-19.58.41:032][305]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.58.48:360][102]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-19.58.49:345][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-19.58.49:361][213]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidgetCCDB17B94D4F947326A1CAB74FAA252E.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-19.58.49:375][213]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-19.58.49:375][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-19.58.51:224][428]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.59.43:495][303]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-19.59.46:312][588]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.05:372][803]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.20:502][568]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.00.20:502][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.20:520][568]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.00.20:520][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.23:136][852]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.00.28:840][489]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.31:823][792]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.35:487][147]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.10.23-20.00.35:512][147]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap1F445A3B41B6E8D4B3B5AA84B68FEC18.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.00.35:530][147]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 4
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.10.23-20.00.35:599][147]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltDataEDA06D474C960F71A9EF6A86D46E895A.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.00.35:618][147]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.00.35:618][147]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.00.35:618][147]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.00.37:432][351]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.37:446][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.00.37:446][351]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:00:37 PM)
+[2020.10.23-20.00.37:446][351]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.00.37:454][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008487s)
+[2020.10.23-20.00.37:455][351]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.00.37:455][351]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025BB0484200), frame # 385351
+[2020.10.23-20.00.37:455][351]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C55555440), frame # 385351
+[2020.10.23-20.00.37:455][351]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2020.10.23-20.00.37:456][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009681s)
+[2020.10.23-20.00.37:528][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.10.23-20.00.37:530][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.00.37:530][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.00.37:531][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.00.37:531][351]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.00.37:531][351]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.00.37:538][351]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.00.37:538][351]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.00.37:573][351]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.00.37:573][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.00.37:573][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.00.37:573][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.00.37:573][351]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.00.37:583][351]LogInit: FAudioDevice initialized.
+[2020.10.23-20.00.37:591][351]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.00.37:593][351]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.00.37
+[2020.10.23-20.00.37:593][351]LogWorld: Bringing up level for play took: 0.001339
+[2020.10.23-20.00.37:593][351]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.10.23-20.00.37:595][351]PIE: Server logged in
+[2020.10.23-20.00.37:596][351]PIE: Play in editor total start time 0.151 seconds.
+[2020.10.23-20.00.40:492][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.00.40:492][672]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.00.40:492][672]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.00.40:492][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.40:503][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.00.40:510][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.40:543][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.00.40:559][672]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C55555440), frame # 385672
+[2020.10.23-20.00.40:559][672]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025BB0484200), frame # 385672
+[2020.10.23-20.00.40:563][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.10.23-20.00.40:585][673]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.10.23-20.00.43:933][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.00.43:944][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.00.43:944][ 66]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:00:43 PM)
+[2020.10.23-20.00.43:944][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.00.43:953][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008773s)
+[2020.10.23-20.00.43:953][ 66]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.00.43:953][ 66]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C8842CA00), frame # 386066
+[2020.10.23-20.00.43:953][ 66]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C359491C0), frame # 386066
+[2020.10.23-20.00.43:954][ 66]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2020.10.23-20.00.43:954][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009758s)
+[2020.10.23-20.00.43:993][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.00.43:995][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.00.43:995][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.00.43:996][ 66]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.00.43:996][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.00.44:003][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.00.44:003][ 66]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.00.44:037][ 66]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.00.44:037][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.00.44:037][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.00.44:037][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.00.44:037][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.00.44:047][ 66]LogInit: FAudioDevice initialized.
+[2020.10.23-20.00.44:101][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.00.44:101][ 66]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.00.44:103][ 66]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.00.44
+[2020.10.23-20.00.44:103][ 66]LogWorld: Bringing up level for play took: 0.001357
+[2020.10.23-20.00.44:103][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.10.23-20.00.44:106][ 66]PIE: Server logged in
+[2020.10.23-20.00.44:107][ 66]PIE: Play in editor total start time 0.163 seconds.
+[2020.10.23-20.00.45:739][255]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.00.45:744][255]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.00.45:771][255]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.00.45:771][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.45:781][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.00.45:786][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.00.45:845][255]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C359491C0), frame # 386255
+[2020.10.23-20.00.45:845][255]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C8842CA00), frame # 386255
+[2020.10.23-20.00.45:848][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.10.23-20.00.45:869][256]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.10.23-20.00.55:207][305]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.01.00:896][914]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.01.02:405][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.01.02:418][ 84]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidgetEA4141F14635680A1D0744881A892A03.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.01.02:431][ 84]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.01.02:431][ 84]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.01.03:657][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.01.03:668][225]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget77253CBD42B9CF9F55108DA157CDFB46.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.01.03:679][225]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.01.03:679][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.01.04:944][363]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.01.18:162][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.10.23-20.01.18:186][885]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap879E7F5F44139E658246FFAD4E30C7E0.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.01.18:204][885]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 4
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.10.23-20.01.18:268][885]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData1E9B609E44D9B86D9F25C488AC179249.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.01.18:287][885]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.01.18:287][885]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.01.18:287][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.01.19:327][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.01.19:339][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.01.19:340][  1]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:01:19 PM)
+[2020.10.23-20.01.19:340][  1]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.01.19:348][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008596s)
+[2020.10.23-20.01.19:349][  1]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.01.19:349][  1]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C09D2B200), frame # 390001
+[2020.10.23-20.01.19:349][  1]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C8A075D00), frame # 390001
+[2020.10.23-20.01.19:349][  1]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.10.23-20.01.19:349][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009658s)
+[2020.10.23-20.01.19:387][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.01.19:389][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.01.19:389][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.01.19:390][  1]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.01.19:390][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.01.19:397][  1]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.01.19:397][  1]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.01.19:432][  1]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.01.19:432][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.01.19:432][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.01.19:432][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.01.19:432][  1]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.01.19:442][  1]LogInit: FAudioDevice initialized.
+[2020.10.23-20.01.19:446][  1]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.01.19:448][  1]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.01.19
+[2020.10.23-20.01.19:448][  1]LogWorld: Bringing up level for play took: 0.001214
+[2020.10.23-20.01.19:448][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.10.23-20.01.19:450][  1]PIE: Server logged in
+[2020.10.23-20.01.19:451][  1]PIE: Play in editor total start time 0.112 seconds.
+[2020.10.23-20.01.23:411][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.01.23:411][462]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.01.23:411][462]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.01.23:411][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.01.23:421][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.01.23:426][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.01.23:459][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.01.23:479][462]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C8A075D00), frame # 390462
+[2020.10.23-20.01.23:479][462]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C09D2B200), frame # 390462
+[2020.10.23-20.01.23:482][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.23-20.01.23:502][463]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.10.23-20.01.25:281][672]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.01.25:294][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.01.25:294][672]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:01:25 PM)
+[2020.10.23-20.01.25:294][672]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.01.25:303][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009154s)
+[2020.10.23-20.01.25:304][672]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.01.25:304][672]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C86CF2E00), frame # 390672
+[2020.10.23-20.01.25:304][672]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C8A27B600), frame # 390672
+[2020.10.23-20.01.25:304][672]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2020.10.23-20.01.25:304][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010279s)
+[2020.10.23-20.01.25:343][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.23-20.01.25:345][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.01.25:345][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.01.25:346][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.01.25:346][672]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.01.25:346][672]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.01.25:354][672]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.01.25:354][672]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.01.25:387][672]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.01.25:388][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.01.25:388][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.01.25:388][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.01.25:388][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.01.25:398][672]LogInit: FAudioDevice initialized.
+[2020.10.23-20.01.25:454][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.01.25:454][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.01.25:456][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.01.25
+[2020.10.23-20.01.25:457][672]LogWorld: Bringing up level for play took: 0.001548
+[2020.10.23-20.01.25:457][672]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.10.23-20.01.25:460][672]PIE: Server logged in
+[2020.10.23-20.01.25:460][672]PIE: Play in editor total start time 0.168 seconds.
+[2020.10.23-20.01.27:382][896]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.01.27:387][896]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.01.27:421][896]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.01.27:422][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.01.27:428][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.01.27:434][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.01.27:493][896]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C8A27B600), frame # 390896
+[2020.10.23-20.01.27:493][896]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C86CF2E00), frame # 390896
+[2020.10.23-20.01.27:496][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.23-20.01.27:517][897]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.10.23-20.02.24:404][501]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.02.24:404][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.02.24:421][501]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.02.24:421][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.02.26:062][679]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.02.35:042][646]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.02.41:313][314]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.02.46:814][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.02.46:826][931]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidgetBFE2952549F98ACC6E6FBF9D9A050A8C.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.02.46:840][931]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.02.46:840][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.02.49:143][187]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.03.02:055][900]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.04.40:889][168]LogAssetEditorSubsystem: Opening Asset editor for FontFace /Game/ThirdPersonBP/Blueprints/horroroid.horroroid
+[2020.10.23-20.04.59:058][263]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/ThirdPersonBP/Blueprints/horroroid_Font.horroroid_Font
+[2020.10.23-20.08.45:561][715]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.08.45:561][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.08.45:581][715]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.08.45:581][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.08.48:442][ 25]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.09.05:885][ 56]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.09.07:595][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.09.07:612][245]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget934D75C841FFD6F3F81BF2AEF6BDA898.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.09.07:627][245]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.09.07:627][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.09.09:200][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.09.12:273][740]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.09.12:273][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.12:288][740]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.09.12:288][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.14:561][986]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.09.20:297][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.10.23-20.09.20:331][616]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap0EE631E34128B344467D7898F2EAFC2D.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.09.20:350][616]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 4
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2020.10.23-20.09.20:427][616]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData5767102544093D70E79E50BE1F65CD1D.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.09.20:447][616]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.09.20:447][616]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.09.20:447][616]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.09.22:069][792]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.09.22:079][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-20.09.22:090][792]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-20.09.22:175][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.10.23-20.09.22:176][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (1 blueprints)
+[2020.10.23-20.09.22:176][792]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:09:22 PM)
+[2020.10.23-20.09.22:176][792]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.09.22:184][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008091s)
+[2020.10.23-20.09.22:185][792]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.09.22:185][792]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C8110EE00), frame # 410792
+[2020.10.23-20.09.22:185][792]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025CA15456C0), frame # 410792
+[2020.10.23-20.09.22:185][792]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2020.10.23-20.09.22:185][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009188s)
+[2020.10.23-20.09.22:226][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.09.22:228][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.09.22:228][792]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.09.22:228][792]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.09.22:237][792]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.09.22:237][792]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.09.22:274][792]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.09.22:274][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.09.22:274][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.09.22:274][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.09.22:275][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.09.22:285][792]LogInit: FAudioDevice initialized.
+[2020.10.23-20.09.22:294][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.09.22:296][792]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.09.22
+[2020.10.23-20.09.22:296][792]LogWorld: Bringing up level for play took: 0.001250
+[2020.10.23-20.09.22:296][792]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.10.23-20.09.22:298][792]PIE: Server logged in
+[2020.10.23-20.09.22:299][792]PIE: Play in editor total start time 0.22 seconds.
+[2020.10.23-20.09.26:300][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.09.26:300][256]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.09.26:300][256]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.09.26:301][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.26:309][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.09.26:315][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.26:348][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.09.26:367][256]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025CA15456C0), frame # 411256
+[2020.10.23-20.09.26:367][256]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C8110EE00), frame # 411256
+[2020.10.23-20.09.26:371][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.23-20.09.26:393][257]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.10.23-20.09.54:801][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.23-20.09.54:824][587]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap55EEE33E44D9EED097E9FDB8EEBA1DD8.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.09.54:960][587]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData859E66B443D4228E98CD5C8FCB3E8ABA.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.09.54:980][587]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.09.54:980][587]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.09.54:980][587]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.09.55:928][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.09.55:940][691]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-20.09.55:943][691]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-20.09.56:036][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.10.23-20.09.56:036][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2020.10.23-20.09.56:036][691]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:09:56 PM)
+[2020.10.23-20.09.56:037][691]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.09.56:045][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008377s)
+[2020.10.23-20.09.56:046][691]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.09.56:046][691]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C89588600), frame # 414691
+[2020.10.23-20.09.56:046][691]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C9B602340), frame # 414691
+[2020.10.23-20.09.56:046][691]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2020.10.23-20.09.56:046][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009539s)
+[2020.10.23-20.09.56:086][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.09.56:088][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.09.56:088][691]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.09.56:088][691]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.09.56:096][691]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.09.56:096][691]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.09.56:129][691]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.09.56:130][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.09.56:130][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.09.56:130][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.09.56:130][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.09.56:140][691]LogInit: FAudioDevice initialized.
+[2020.10.23-20.09.56:151][691]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.09.56:152][691]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.09.56
+[2020.10.23-20.09.56:153][691]LogWorld: Bringing up level for play took: 0.001243
+[2020.10.23-20.09.56:153][691]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.10.23-20.09.56:155][691]PIE: Server logged in
+[2020.10.23-20.09.56:156][691]PIE: Play in editor total start time 0.216 seconds.
+[2020.10.23-20.09.58:200][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.09.58:200][925]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.09.58:200][925]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.09.58:200][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.58:208][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.09.58:213][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.09.58:246][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.09.58:277][925]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C9B602340), frame # 414925
+[2020.10.23-20.09.58:277][925]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C89588600), frame # 414925
+[2020.10.23-20.09.58:281][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.10.23-20.09.58:312][926]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.10.23-20.09.59:612][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.09.59:622][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.09.59:622][ 76]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:09:59 PM)
+[2020.10.23-20.09.59:623][ 76]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.09.59:631][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008122s)
+[2020.10.23-20.09.59:632][ 76]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.09.59:632][ 76]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C86CF2200), frame # 415076
+[2020.10.23-20.09.59:632][ 76]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C4A241440), frame # 415076
+[2020.10.23-20.09.59:632][ 76]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2020.10.23-20.09.59:632][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009124s)
+[2020.10.23-20.09.59:669][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.09.59:671][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.09.59:671][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.09.59:672][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.09.59:672][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.09.59:679][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.09.59:679][ 76]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.09.59:714][ 76]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.09.59:715][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.09.59:715][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.09.59:715][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.09.59:715][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.09.59:725][ 76]LogInit: FAudioDevice initialized.
+[2020.10.23-20.09.59:764][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.09.59:764][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.09.59:766][ 76]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.09.59
+[2020.10.23-20.09.59:766][ 76]LogWorld: Bringing up level for play took: 0.001785
+[2020.10.23-20.09.59:766][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2020.10.23-20.09.59:769][ 76]PIE: Server logged in
+[2020.10.23-20.09.59:770][ 76]PIE: Play in editor total start time 0.148 seconds.
+[2020.10.23-20.10.03:956][572]LogBlueprintUserMessages: [MinorHungerPickup_2] 100
+[2020.10.23-20.10.04:607][650]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-20.10.05:698][781]LogBlueprintUserMessages: [MinorHungerPickup2_5] 100
+[2020.10.23-20.10.07:174][958]LogBlueprintUserMessages: [FullHungerPickup2_5] 100
+[2020.10.23-20.10.08:474][114]LogBlueprintUserMessages: [FullHungerPickup_2] 100
+[2020.10.23-20.10.09:607][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-20.10.11:440][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.10.11:440][466]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.10.11:440][466]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.10.11:445][466]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.10.11:445][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.11:449][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.10.11:455][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.11:510][466]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C4A241440), frame # 416466
+[2020.10.23-20.10.11:510][466]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C86CF2200), frame # 416466
+[2020.10.23-20.10.11:513][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.10.23-20.10.11:533][467]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.10.23-20.10.24:007][943]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.10.48:874][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.23-20.10.48:948][868]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap6E04B1564B81A58DF3A9ED83C8D2ED78.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.10.49:032][868]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData362F79C6401F24DA136FB6AD632F5375.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.10.49:052][868]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.10.49:052][868]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.10.49:052][868]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.10.50:460][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.10.50:471][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-20.10.50:474][ 29]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-20.10.50:584][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.10.23-20.10.50:585][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2020.10.23-20.10.50:585][ 29]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:10:50 PM)
+[2020.10.23-20.10.50:585][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.10.50:593][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008258s)
+[2020.10.23-20.10.50:594][ 29]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.10.50:594][ 29]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C8FAC9800), frame # 421029
+[2020.10.23-20.10.50:594][ 29]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C49E9EAC0), frame # 421029
+[2020.10.23-20.10.50:594][ 29]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2020.10.23-20.10.50:594][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009260s)
+[2020.10.23-20.10.50:633][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.10.50:635][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.10.50:635][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.10.50:635][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.10.50:642][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.10.50:642][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.10.50:678][ 29]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.10.50:678][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.10.50:679][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.10.50:679][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.10.50:679][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.10.50:689][ 29]LogInit: FAudioDevice initialized.
+[2020.10.23-20.10.50:695][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.10.50:697][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.10.50
+[2020.10.23-20.10.50:697][ 29]LogWorld: Bringing up level for play took: 0.001293
+[2020.10.23-20.10.50:697][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2020.10.23-20.10.50:699][ 29]PIE: Server logged in
+[2020.10.23-20.10.50:700][ 29]PIE: Play in editor total start time 0.23 seconds.
+[2020.10.23-20.10.52:480][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.10.52:480][233]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.10.52:480][233]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.10.52:481][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.52:486][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.10.52:493][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.52:555][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.10.52:556][233]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C49E9EAC0), frame # 421233
+[2020.10.23-20.10.52:556][233]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C8FAC9800), frame # 421233
+[2020.10.23-20.10.52:560][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.10.23-20.10.52:589][234]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2020.10.23-20.10.55:293][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.10.55:303][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.10.55:303][545]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:10:55 PM)
+[2020.10.23-20.10.55:303][545]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.10.55:311][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007899s)
+[2020.10.23-20.10.55:312][545]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.10.55:312][545]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C53FCFA00), frame # 421545
+[2020.10.23-20.10.55:312][545]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C8F6316C0), frame # 421545
+[2020.10.23-20.10.55:313][545]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2020.10.23-20.10.55:313][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009236s)
+[2020.10.23-20.10.55:350][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.10.55:352][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.10.55:352][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.10.55:353][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.10.55:353][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.10.55:360][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.10.55:360][545]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.10.55:393][545]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.10.55:394][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.10.55:394][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.10.55:394][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.10.55:394][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.10.55:404][545]LogInit: FAudioDevice initialized.
+[2020.10.23-20.10.55:452][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.10.55:452][545]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.10.55:454][545]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.10.55
+[2020.10.23-20.10.55:454][545]LogWorld: Bringing up level for play took: 0.001722
+[2020.10.23-20.10.55:454][545]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2020.10.23-20.10.55:457][545]PIE: Server logged in
+[2020.10.23-20.10.55:458][545]PIE: Play in editor total start time 0.155 seconds.
+[2020.10.23-20.10.59:500][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.10.59:500][ 22]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.10.59:500][ 22]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.10.59:504][ 22]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.10.59:505][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.59:510][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.10.59:516][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.10.59:568][ 22]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C8F6316C0), frame # 422022
+[2020.10.23-20.10.59:568][ 22]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C53FCFA00), frame # 422022
+[2020.10.23-20.10.59:572][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.23-20.10.59:592][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2020.10.23-20.12.28:439][100]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.13.03:786][282]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.23-20.13.06:522][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.23-20.13.06:547][592]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap72A1E2AE4DF5A4FC7010429A6CFE3406.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.13.06:634][592]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData89E844604588D1BC432AFBA84723DC83.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.13.06:651][592]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.13.06:651][592]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.13.06:651][592]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.13.07:869][733]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.13.07:879][733]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-20.13.07:881][733]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-20.13.07:992][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.10.23-20.13.07:992][733]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2020.10.23-20.13.07:992][733]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:13:07 PM)
+[2020.10.23-20.13.07:993][733]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.13.08:001][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008782s)
+[2020.10.23-20.13.08:002][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.13.08:002][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C85997E00), frame # 432733
+[2020.10.23-20.13.08:002][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C8F6311C0), frame # 432733
+[2020.10.23-20.13.08:002][733]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.10.23-20.13.08:002][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009730s)
+[2020.10.23-20.13.08:042][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.13.08:044][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.13.08:044][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.13.08:045][733]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.13.08:045][733]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.13.08:052][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.13.08:052][733]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.13.08:087][733]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.13.08:087][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.13.08:088][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.13.08:088][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.13.08:088][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.13.08:098][733]LogInit: FAudioDevice initialized.
+[2020.10.23-20.13.08:103][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.13.08:104][733]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.13.08
+[2020.10.23-20.13.08:104][733]LogWorld: Bringing up level for play took: 0.001261
+[2020.10.23-20.13.08:105][733]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2020.10.23-20.13.08:107][733]PIE: Server logged in
+[2020.10.23-20.13.08:107][733]PIE: Play in editor total start time 0.228 seconds.
+[2020.10.23-20.13.09:690][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.13.09:690][914]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.13.09:690][914]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.13.09:691][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.13.09:699][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.13.09:705][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.13.09:742][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.13.09:776][914]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C8F6311C0), frame # 432914
+[2020.10.23-20.13.09:776][914]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C85997E00), frame # 432914
+[2020.10.23-20.13.09:780][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.10.23-20.13.09:804][915]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.10.23-20.14.03:384][183]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ciana\Desktop\horroroidbold.ttf)
+[2020.10.23-20.14.06:497][183]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.10.23-20.14.06:502][183]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2020.10.23-20.14.06:509][183]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.10.23-20.14.06:512][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.14.06:516][183]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-20.14.06:540][183]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-20.14.06:540][183]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-20.14.06:545][183]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-20.14.06:555][183]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-20.14.08:810][441]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-20.14.08:843][441]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.23-20.14.11:259][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.10.23-20.14.11:284][719]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap95F1158F4F3723FCDBF8269E40993A2D.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.14.11:371][719]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltDataF60E990A49B9D085B95234BBAA550516.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.14.11:393][719]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.14.11:393][719]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.14.11:393][719]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.14.37:006][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.23-20.14.37:039][732]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMapEC8C60484F26BF9AD8F5C4A6CA2CE44F.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.14.37:129][732]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData9500AA81415DFEB9075044B2DAC20662.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.14.37:150][732]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.14.37:150][732]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.14.37:150][732]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.14.42:667][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.23-20.14.43:610][352]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-20.14.43:724][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.23-20.14.43:733][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.14.43:735][353]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.23-20.14.43:739][353]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.23-20.14.43:743][353]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.23-20.14.43:745][353]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-20.14.46:755][704]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.23-20.14.46:758][704]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-20.14.46:761][704]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.23-20.14.48:607][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.14.48:623][903]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidgetB7B130064ACD3BE04E3F8D846C07865B.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.14.48:640][903]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.14.48:640][903]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.14.51:895][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.23-20.14.51:919][267]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap43D0819348E66CA086CABEAF3D581C59.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.14.52:007][267]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData653BF8404AAA92C6EE54FD9793704C34.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.14.52:028][267]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.14.52:028][267]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.14.52:028][267]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.14.52:602][332]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.14.52:613][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.23-20.14.52:615][332]LogPlayLevel: [PlayLevel] Compiling SurvivalHUDWidget before play...
+[2020.10.23-20.14.52:729][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.23-20.14.52:729][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2020.10.23-20.14.52:730][332]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:14:52 PM)
+[2020.10.23-20.14.52:730][332]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.14.52:740][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010159s)
+[2020.10.23-20.14.52:741][332]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.14.52:741][332]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C58A19800), frame # 439332
+[2020.10.23-20.14.52:741][332]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C85D7D580), frame # 439332
+[2020.10.23-20.14.52:741][332]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2020.10.23-20.14.52:741][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011403s)
+[2020.10.23-20.14.52:781][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.14.52:783][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.14.52:783][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.14.52:784][332]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.14.52:784][332]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.14.52:791][332]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.14.52:791][332]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.14.52:829][332]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.14.52:829][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.14.52:829][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.14.52:829][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.14.52:829][332]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.14.52:830][332]LogInit: FAudioDevice initialized.
+[2020.10.23-20.14.52:843][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.14.52:845][332]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.14.52
+[2020.10.23-20.14.52:845][332]LogWorld: Bringing up level for play took: 0.001247
+[2020.10.23-20.14.52:845][332]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.10.23-20.14.52:847][332]PIE: Server logged in
+[2020.10.23-20.14.52:848][332]PIE: Play in editor total start time 0.235 seconds.
+[2020.10.23-20.14.54:410][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.14.54:410][513]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.14.54:410][513]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.14.54:410][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.14.54:418][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.14.54:424][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.14.54:472][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.14.54:473][513]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C85D7D580), frame # 439513
+[2020.10.23-20.14.54:473][513]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C58A19800), frame # 439513
+[2020.10.23-20.14.54:477][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.10.23-20.14.54:499][514]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.10.23-20.15.38:281][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.23-20.15.38:306][953]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMapFFF775304893E63B10A26080658EA2FE.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.15.38:393][953]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData0747BBBC4026F4C4D6593C81C3E9C148.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.15.38:413][953]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.15.38:413][953]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.15.38:413][953]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.18.43:797][726]BlueprintLog: New page: Compile SurvivalHUDWidget
+[2020.10.23-20.18.43:844][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.10.23-20.19.09:107][637]BlueprintLog: New page: Compile SurvivalHUDWidget
+[2020.10.23-20.19.09:152][637]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.10.23-20.19.09:661][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset" SILENT=true
+[2020.10.23-20.19.09:677][693]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/SurvivalHUDWidget4F01565D4D84D0E86DA66D90D59406C4.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/SurvivalHUDWidget.uasset'
+[2020.10.23-20.19.09:694][693]AssetCheck: New page: Asset Save: SurvivalHUDWidget
+[2020.10.23-20.19.09:694][693]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/SurvivalHUDWidget.SurvivalHUDWidget
+[2020.10.23-20.19.11:990][951]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.19.12:002][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.19.12:002][951]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:19:12 PM)
+[2020.10.23-20.19.12:002][951]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.19.12:011][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009355s)
+[2020.10.23-20.19.12:012][951]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.19.12:012][951]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C9C135A00), frame # 460951
+[2020.10.23-20.19.12:012][951]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C87B58F40), frame # 460951
+[2020.10.23-20.19.12:012][951]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.10.23-20.19.12:012][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010420s)
+[2020.10.23-20.19.12:053][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.19.12:055][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.19.12:055][951]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.19.12:055][951]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.19.12:063][951]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.19.12:063][951]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.19.12:098][951]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.19.12:099][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.19.12:099][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.19.12:099][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.19.12:099][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.19.12:109][951]LogInit: FAudioDevice initialized.
+[2020.10.23-20.19.12:175][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.19.12:175][951]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.19.12:177][951]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.19.12
+[2020.10.23-20.19.12:177][951]LogWorld: Bringing up level for play took: 0.001661
+[2020.10.23-20.19.12:177][951]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2020.10.23-20.19.12:181][951]PIE: Server logged in
+[2020.10.23-20.19.12:182][951]PIE: Play in editor total start time 0.181 seconds.
+[2020.10.23-20.19.16:986][504]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-20.19.19:186][768]LogBlueprintUserMessages: [MinorHungerPickup_2] 100
+[2020.10.23-20.19.21:991][104]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-20.19.26:993][704]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2020.10.23-20.19.31:996][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 25
+[2020.10.23-20.19.37:004][904]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 0
+[2020.10.23-20.19.37:012][905]LogBlueprintUserMessages: [ThirdPersonCharacter_167] You Died!
+[2020.10.23-20.19.38:868][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.19.38:868][122]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.19.38:869][122]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.19.38:874][122]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.19.38:874][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.19.38:880][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.19.38:886][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.19.38:955][122]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C87B58F40), frame # 464122
+[2020.10.23-20.19.38:955][122]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C9C135A00), frame # 464122
+[2020.10.23-20.19.38:959][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.10.23-20.19.38:989][123]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.10.23-20.20.02:879][731]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.23-20.20.34:665][696]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.23-20.20.34:747][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.10.23-20.20.35:246][737]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonCharacter12421E1944F6BF4CB889238CB05AF3EA.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.23-20.20.35:263][737]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.23-20.20.35:263][737]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.23-20.20.42:215][568]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.20.42:232][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.20.42:232][568]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:20:42 PM)
+[2020.10.23-20.20.42:232][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.20.42:240][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008220s)
+[2020.10.23-20.20.42:241][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.20.42:241][568]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C8633AE00), frame # 469568
+[2020.10.23-20.20.42:241][568]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025BED380F40), frame # 469568
+[2020.10.23-20.20.42:241][568]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2020.10.23-20.20.42:241][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009251s)
+[2020.10.23-20.20.42:284][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.20.42:287][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.20.42:287][568]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.20.42:287][568]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.20.42:295][568]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.20.42:295][568]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.20.42:331][568]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.20.42:331][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.20.42:331][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.20.42:331][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.20.42:331][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.20.42:341][568]LogInit: FAudioDevice initialized.
+[2020.10.23-20.20.42:400][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.20.42:400][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.20.42:402][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.20.42
+[2020.10.23-20.20.42:402][568]LogWorld: Bringing up level for play took: 0.001767
+[2020.10.23-20.20.42:402][568]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2020.10.23-20.20.42:407][568]PIE: Server logged in
+[2020.10.23-20.20.42:408][568]PIE: Play in editor total start time 0.177 seconds.
+[2020.10.23-20.20.43:213][639]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 95
+[2020.10.23-20.20.44:218][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2020.10.23-20.20.45:218][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 85
+[2020.10.23-20.20.46:219][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2020.10.23-20.20.47:219][119]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 75
+[2020.10.23-20.20.47:888][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.20.47:888][195]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.20.47:889][195]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.20.47:892][195]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.20.47:892][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.20.47:902][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.20.47:908][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.20.47:974][195]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025BED380F40), frame # 470195
+[2020.10.23-20.20.47:974][195]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C8633AE00), frame # 470195
+[2020.10.23-20.20.47:978][195]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.10.23-20.20.48:000][196]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2020.10.23-20.21.31:269][491]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.23-20.21.31:343][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.10.23-20.21.31:865][533]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonCharacter33F21B2F4D79722861DFC98FB5056A91.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.23-20.21.31:880][533]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.23-20.21.31:880][533]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.23-20.21.32:827][645]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.21.32:838][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.21.32:838][645]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:21:32 PM)
+[2020.10.23-20.21.32:838][645]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.21.32:848][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010186s)
+[2020.10.23-20.21.32:850][645]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.21.32:850][645]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025C92366400), frame # 474645
+[2020.10.23-20.21.32:850][645]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025BED3811C0), frame # 474645
+[2020.10.23-20.21.32:850][645]LogPlayLevel: PIE: World Init took: (0.001443s)
+[2020.10.23-20.21.32:850][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011743s)
+[2020.10.23-20.21.32:892][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.21.32:894][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.21.32:894][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.21.32:895][645]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.21.32:895][645]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.21.32:902][645]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.21.32:902][645]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.21.32:937][645]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.21.32:937][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.21.32:937][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.21.32:937][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.21.32:937][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.21.32:947][645]LogInit: FAudioDevice initialized.
+[2020.10.23-20.21.33:003][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.21.33:003][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.21.33:005][645]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.21.33
+[2020.10.23-20.21.33:006][645]LogWorld: Bringing up level for play took: 0.001534
+[2020.10.23-20.21.33:006][645]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2020.10.23-20.21.33:010][645]PIE: Server logged in
+[2020.10.23-20.21.33:011][645]PIE: Play in editor total start time 0.174 seconds.
+[2020.10.23-20.21.38:693][306]LogBlueprintUserMessages: [MinorHungerPickup2_5] 100
+[2020.10.23-20.21.45:651][135]LogBlueprintUserMessages: [FullHungerPickup_2] 100
+[2020.10.23-20.21.49:388][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.21.49:388][578]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.21.49:389][578]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.21.49:392][578]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.21.49:392][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.21.49:402][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.21.49:408][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.21.49:463][578]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025BED3811C0), frame # 476578
+[2020.10.23-20.21.49:463][578]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025C92366400), frame # 476578
+[2020.10.23-20.21.49:466][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.10.23-20.21.49:488][579]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2020.10.23-20.22.56:792][241]BlueprintLog: New page: Compile MinorHungerPickup
+[2020.10.23-20.22.56:853][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.10.23-20.22.57:269][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MinorHungerPickup" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/MinorHungerPickup.uasset" SILENT=true
+[2020.10.23-20.22.57:293][282]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/MinorHungerPickupCF7DB59C4C939473AF940F994E07747B.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/MinorHungerPickup.uasset'
+[2020.10.23-20.22.57:315][282]AssetCheck: New page: Asset Save: MinorHungerPickup
+[2020.10.23-20.22.57:315][282]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MinorHungerPickup.MinorHungerPickup
+[2020.10.23-20.23.07:352][398]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-20.23.07:363][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-20.23.07:363][398]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 12:23:07 PM)
+[2020.10.23-20.23.07:363][398]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.23.07:372][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008349s)
+[2020.10.23-20.23.07:372][398]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-20.23.07:372][398]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025BF1BC1C00), frame # 482398
+[2020.10.23-20.23.07:372][398]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025C6F534A40), frame # 482398
+[2020.10.23-20.23.07:372][398]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2020.10.23-20.23.07:372][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009374s)
+[2020.10.23-20.23.07:411][398]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.23-20.23.07:413][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.23-20.23.07:413][398]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.23-20.23.07:413][398]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.23-20.23.07:421][398]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-20.23.07:421][398]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-20.23.07:455][398]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.10.23-20.23.07:456][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.23-20.23.07:456][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.23-20.23.07:456][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.23-20.23.07:456][398]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.23-20.23.07:466][398]LogInit: FAudioDevice initialized.
+[2020.10.23-20.23.07:528][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.23.07:529][398]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.23-20.23.07:531][398]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.10.23-16.23.07
+[2020.10.23-20.23.07:531][398]LogWorld: Bringing up level for play took: 0.001625
+[2020.10.23-20.23.07:531][398]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2020.10.23-20.23.07:535][398]PIE: Server logged in
+[2020.10.23-20.23.07:536][398]PIE: Play in editor total start time 0.174 seconds.
+[2020.10.23-20.23.19:973][884]LogBlueprintUserMessages: [FullHungerPickup_2] 100
+[2020.10.23-20.23.21:498][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-20.23.21:498][ 62]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-20.23.21:498][ 62]LogSlate: Window 'SurvivalHorror Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.23-20.23.21:502][ 62]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-20.23.21:502][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.23.21:515][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-20.23.21:520][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-20.23.21:584][ 62]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025C6F534A40), frame # 484062
+[2020.10.23-20.23.21:584][ 62]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025BF1BC1C00), frame # 484062
+[2020.10.23-20.23.21:587][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.23-20.23.21:618][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2020.10.23-20.23.23:331][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MinorHungerPickup" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/MinorHungerPickup.uasset" SILENT=true
+[2020.10.23-20.23.23:347][261]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/MinorHungerPickup41FB4BD1465B56592AE64E8CB61A31F3.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/MinorHungerPickup.uasset'
+[2020.10.23-20.23.23:362][261]AssetCheck: New page: Asset Save: MinorHungerPickup
+[2020.10.23-20.23.23:362][261]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MinorHungerPickup.MinorHungerPickup
+[2020.10.23-20.23.41:904][301]BlueprintLog: New page: Compile FullHungerPickup
+[2020.10.23-20.23.41:964][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.10.23-20.23.42:641][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/FullHungerPickup" FILE="E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/FullHungerPickup.uasset" SILENT=true
+[2020.10.23-20.23.42:665][373]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/FullHungerPickup5F5FFCCA48AF40B773950CA118CA9980.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Blueprints/FullHungerPickup.uasset'
+[2020.10.23-20.23.42:681][373]AssetCheck: New page: Asset Save: FullHungerPickup
+[2020.10.23-20.23.42:681][373]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/FullHungerPickup.FullHungerPickup
+[2020.10.23-20.24.02:824][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.10.23-20.24.02:864][913]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMapB06A4DD843B9F12CA9419EB413276C80.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.24.02:958][913]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData28B4588446D2834BD1D6F5974172B2E3.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.24.02:977][913]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.24.02:977][913]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.24.02:977][913]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.23-20.24.04:389][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.10.23-20.24.04:525][ 68]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMapBB41615E4CEB0F937C47CCADA0033ADD.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.23-20.24.04:619][ 68]LogSavePackage: Moving 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Saved/ThirdPersonExampleMap_BuiltData623F724541CD6C044644F5BAC8975CF0.tmp' to 'E:/UnrealProjects/SurvivalHorror/SurvivalHorror/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.23-20.24.04:639][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-20.24.04:639][ 68]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.23-20.24.04:639][ 68]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
